@@ -75,7 +75,7 @@ public class Variables {
 
         // Distance
         double distanceToSun = 149_549_870_3; // in km;
-        
+
         // Boolean (true / false)
         // has or is prefix;
 
@@ -107,5 +107,16 @@ public class Variables {
 
         int remainderResult = 5 % 3;
         System.out.println(remainderResult);
+
+        // Operators (Simple example)
+        int x = 10;
+        int y = 20;
+        int result = x + y;
+
+        int a = 30;
+        int b = 40;
+        int anotherResult = a - b;
+
+        int c = 10 + 20;
     }
 }
